@@ -1,5 +1,5 @@
-import static com.figaw.Helper.someMethod
-import static com.figaw.Helper.someMethodOne
+import static com.figaw.Parser.someMethod
+import static com.figaw.Parser.someMethodOne
 
 def call() {
     println someMethodOne()
