@@ -6,4 +6,7 @@ class Helper {
         return "some library 1 value"
     }
 
+    static def someMethodOne() {
+        return "some library method 1"
+    }
 }
